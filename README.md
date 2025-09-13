@@ -2,6 +2,12 @@
 
 This project is a microservices-based Quiz Application built with Spring Boot. It demonstrates a modular architecture using multiple services for quiz management, question management, service discovery, and API gateway.
 
+# Features
+- Create quizzes with random questions from a selected category
+- Add and manage quiz questions
+- Filter questions by category
+- Submit quiz responses and receive a score
+
 ## Project Structure
 
 - **api-gateway**: Handles routing and acts as a single entry point for all client requests.
